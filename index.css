@@ -1,0 +1,120 @@
+body{
+    display: flex;
+    place-content: center;
+    margin-top: 100px;
+}
+.firstbox{
+    padding-top: 3px;
+    border: 1px solid rgb(23, 78, 141);
+    width:350px;
+    height: 400px;
+    text-align: center;
+}
+.nou{
+    background-color: aqua;
+    border-top: 30px;
+}
+.webimg{
+    height: 30px;
+    width: 35px;
+    padding-top: 8px;
+}
+.mag5{
+    height: 50px;
+    border-radius: 100px;
+    margin-top:0;
+}
+.numb{
+    font-size: smaller;
+    font-weight: bold;
+}
+.secondbox{
+    padding-top: 3px;
+    border: 1px solid rgb(33, 33, 82);
+    width: 350px;
+    height: 400px;
+    text-align:center;
+    margin-left: 20px;
+}
+.mage2{
+    height: 30px;
+    width: 35px;
+    padding-top: 8px;
+} 
+.apply{
+    color: rgba(11, 174, 11, 0.693);
+    font-weight: bold;
+}
+.rr{
+    display: flex;
+    border: 1px solid lightgrey;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-left: 0;
+    border-right: 0;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    column-gap: 5.5rem;
+}
+.gram{
+    display: flex;
+    border: 1px solid lightgrey;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-left: 0;
+    border-right:0 ;
+    margin-top: 5px;
+    border-top: 0;
+    padding-bottom: 5px;
+    column-gap:2.9rem ;
+}
+.ton{
+    border: 1px solid lightgrey;
+    padding-top: 10px;
+    border-top: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-left: 0;
+    border-right: 0;
+    padding-bottom: 5px;
+}
+.but{
+    background-color:rgba(11, 174, 11, 0.693) ;
+    color:white;
+    border-color:rgba(11, 174, 11, 0.693) ;
+    font-weight: bold;
+}
+.act{
+    color: rgb(0, 102, 255);
+    font-size: smaller;
+}
+.rrr{
+    margin-left: -35px;
+}
+.ppps{
+    margin-left: 4px;
+}
+.thirdbox{
+    padding-top: 3px;
+    border: 1px solid rgb(33, 33, 82);
+    height: 400px;
+    width: 350px;
+    margin-left: 20px;
+    text-align: center;
+}
+.webmag3{
+    height: 30px;
+    width: 35px;
+    padding-top: 8px;   
+}
+.type{
+    margin: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.senatemag4{
+    height: 50px;
+    border-radius: 100px;
+    margin-top:10px;
+}
